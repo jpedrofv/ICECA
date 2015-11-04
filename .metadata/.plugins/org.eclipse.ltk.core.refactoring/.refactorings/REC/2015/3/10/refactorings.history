@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HoraData.java&apos; to &apos;Many Business Control - M.B.C/src/util&apos;&#x0D;&#x0A;- Original project: &apos;REC&apos;&#x0D;&#x0A;- Destination element: &apos;Many Business Control - M.B.C/src/util&apos;&#x0D;&#x0A;- Original element: &apos;br.com.lab.util.HoraData.java&apos;" description="Copy compilation unit" destination="=Many Business Control - M.B.C/src&lt;util" element1="/src&lt;br.com.lab.util{HoraData.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1425771308150" units="1" version="1.0"/>
+</session>
